@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\TimeMachine.exe
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\TimeMachine.dll
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\TimeMachine.deps.json
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\TimeMachine.runtimeconfig.json
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\TimeMachine.pdb

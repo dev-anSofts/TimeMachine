@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+76mwYjEkJg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\TimeMachine\\TimeMachine\\TimeMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-arm64\\6.0.36\\microsoft.netcore.app.runtime.osx-arm64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-arm64\\6.0.36\\microsoft.aspnetcore.app.runtime.osx-arm64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.osx-arm64\\6.0.36\\microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

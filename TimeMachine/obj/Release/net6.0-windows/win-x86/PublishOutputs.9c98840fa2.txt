@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\TimeMachine.pdb
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\D3DCompiler_47_cor3.dll
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\PenImc_cor3.dll
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\PresentationNative_cor3.dll
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\vcruntime140_cor3.dll
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\wpfgfx_cor3.dll
+C:\Users\Administrator\Desktop\PROGETTI\Progetti di sviluppo\TimeMachine\Release\TimeMachine.exe

@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Release\net6.0-windows\TimeMachine.exe
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Release\net6.0-windows\TimeMachine.deps.json
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Release\net6.0-windows\TimeMachine.runtimeconfig.json
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Release\net6.0-windows\TimeMachine.dll
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Release\net6.0-windows\TimeMachine.pdb
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.Properties.Resources.resources
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.TimeMachine.resources
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.dll
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\refint\TimeMachine.dll
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.pdb
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\TimeMachine.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Release\net6.0-windows\ref\TimeMachine.dll

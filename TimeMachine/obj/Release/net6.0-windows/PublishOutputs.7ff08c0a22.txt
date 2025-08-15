@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\PROGETTI\CONGELATO\TimeMachine\TimeMachine.exe
+C:\Users\Administrator\Desktop\PROGETTI\CONGELATO\TimeMachine\TimeMachine.dll
+C:\Users\Administrator\Desktop\PROGETTI\CONGELATO\TimeMachine\TimeMachine.deps.json
+C:\Users\Administrator\Desktop\PROGETTI\CONGELATO\TimeMachine\TimeMachine.runtimeconfig.json
+C:\Users\Administrator\Desktop\PROGETTI\CONGELATO\TimeMachine\TimeMachine.pdb

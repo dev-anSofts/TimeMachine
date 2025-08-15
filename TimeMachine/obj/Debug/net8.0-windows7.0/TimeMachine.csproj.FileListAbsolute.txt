@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Debug\net8.0-windows7.0\TimeMachine.exe
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Debug\net8.0-windows7.0\TimeMachine.deps.json
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Debug\net8.0-windows7.0\TimeMachine.runtimeconfig.json
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Debug\net8.0-windows7.0\TimeMachine.dll
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\bin\Debug\net8.0-windows7.0\TimeMachine.pdb
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.Properties.Resources.resources
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.TimeMachine.resources
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.dll
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\refint\TimeMachine.dll
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.pdb
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\TimeMachine.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\TimeMachine\TimeMachine\obj\Debug\net8.0-windows7.0\ref\TimeMachine.dll
