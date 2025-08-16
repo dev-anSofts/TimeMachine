@@ -1,3 +1,5 @@
+[![Made with C#](https://img.shields.io/badge/Made_with-C%23-blue?logo=dotnet)](https://dotnet.microsoft.com/it-it/languages/csharp)
+[![Visit Developer Website](https://img.shields.io/badge/Visit_Developer_Website-anSofts-red)](https://ansofts.it)
 # TimeMachine
 
 TimeMachine is a Windows application developed in **C#** with a **WinForms** interface that allows you to quickly change the system date while keeping the current time.  
