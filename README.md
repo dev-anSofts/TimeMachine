@@ -15,7 +15,7 @@ The program requires administrative privileges and is optimized for touch device
 - .NET Framework 8.0.
 - Administrative rights to modify the system date.
 
-## Installation
+## Usage
 1. Run the executable.
 2. Confirm the UAC prompt.
 3. Select the new date and apply.
